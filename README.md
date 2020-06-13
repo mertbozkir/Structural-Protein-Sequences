@@ -1,5 +1,5 @@
 # Structural-Protein-Sequences  
-**Project:**     
+## **Project:**     
 In this Project we examined the structural properities of proteins.
 The project contains varoius data preprocessing techniques to analyse and
 clean a dataset.  
