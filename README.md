@@ -3,7 +3,7 @@
 In this Project we examined the structural properities of proteins.
 The project contains varoius data preprocessing techniques to analyse and
 clean a dataset.  
-**About The Dataset:**      
+### **About The Dataset:**      
 The dataset is about structural protein sequences that has been retrieved from
 Research Colloboratory for Structural Bioinformatics (RCSB) Protein Data Bank
 (PDB) and kindly aknowledged.
