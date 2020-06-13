@@ -9,7 +9,7 @@ Research Colloboratory for Structural Bioinformatics (RCSB) Protein Data Bank
 (PDB) and kindly aknowledged.
 The dataset contains protein meta data which includes details on protein
 classification, extraction methods, etc.  
-**Content:**  
+#### **Content:**  
 1. Imports and Functions
 2. Exploratory Data Analyses
 3. Data Visualization  
