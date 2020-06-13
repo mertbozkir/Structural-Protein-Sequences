@@ -17,8 +17,8 @@ classification, extraction methods, etc.
 3.2. Nullity Matrice  
 3.3. Heatmap  
 4. Split Data Into Training and Testing
-5. Outliers Detection
-5.1 IQR method
+5. Outliers Detection  
+5.1 IQR method  
 6. Missing Value Imputation  
 6.1. Mean  
 6.2. Median  
