@@ -24,5 +24,5 @@ classification, extraction methods, etc.
 6.4. KNN  
 6.5. Random Forest  
 ## **Contributors**. 
-[Pınar Kaya](https://github.com/PinarKaya).  
+[Pınar Kaya](https://github.com/PinarKaya)  
 [Mert Bozkır](https://github.com/mertbozkirr)
