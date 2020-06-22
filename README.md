@@ -1,8 +1,6 @@
 # Structural-Protein-Sequences  
 ## **Project:**     
-In this Project we examined the structural properities of proteins.
-The project contains varoius data preprocessing techniques to analyse and
-clean a dataset.  
+In this project, we examined the structural properties of proteins. The project contains various data preprocessing techniques to analyze and clean a dataset. 
 ### **About The Dataset:**      
 The dataset is about structural protein sequences that has been retrieved from
 Research Colloboratory for Structural Bioinformatics (RCSB) Protein Data Bank
@@ -25,3 +23,6 @@ classification, extraction methods, etc.
 6.3. Lineer Regression  
 6.4. KNN  
 6.5. Random Forest  
+## **Contributors**. 
+[Pınar Kaya](https://github.com/PinarKaya).  
+[Mert Bozkır](https://github.com/mertbozkirr)
