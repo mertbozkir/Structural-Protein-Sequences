@@ -25,4 +25,4 @@ classification, extraction methods, etc.
 6.5. Random Forest  
 ## **Contributors**. 
 [Pınar Kaya](https://github.com/PinarKaya)  
-[Mert Bozkır](https://github.com/mertbozkirr)
+[Hanım Halilova](https://github.com/KhanimKhalil)
